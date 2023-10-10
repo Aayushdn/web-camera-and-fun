@@ -16,6 +16,7 @@ html {
   max-width: 150rem;
   margin: 2rem auto;
   border-radius: 2px;
+  text-align: center;
 }
 
 /*clearfix*/
